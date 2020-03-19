@@ -1,0 +1,31 @@
+.grid {
+    display: grid;
+    grid-template-columns: 2fr 5fr;
+    margin: 25px 100px;
+}
+
+.box-left {
+    text-align: right;
+}
+
+.box-right {
+    text-align: left;
+    margin-left: 25px;
+}
+
+.customer-photo {
+    width: 120px;
+    border-radius: 50%;
+}
+
+.testimony h2 {
+    margin-top: 10px;
+}
+
+.testimony p {
+    margin-top: 15px;
+}
+
+#backlink {
+    text-align: center;
+}
